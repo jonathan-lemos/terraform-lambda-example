@@ -13,6 +13,7 @@ ProjectSection(SolutionItems) = preProject
 	lambda.tf = lambda.tf
 	api-gateway.tf = api-gateway.tf
 	aws.tf = aws.tf
+	lambda-integration.tf = lambda-integration.tf
 EndProjectSection
 EndProject
 Global
